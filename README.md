@@ -21,4 +21,5 @@
 ### 🟢 1. ఎన్క్రిప్ట్ చేయడం
 
 ```bash
-$ python3 PB_SelfDestruct4.py
+$ bash ./install.sh
+$ python3 pb_selfdestruct4_enc.py
