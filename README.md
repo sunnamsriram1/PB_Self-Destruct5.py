@@ -22,5 +22,5 @@
 
 ```bash
 $ bash ./install.sh
-$chmod +x pb_selfdestruct4_enc.py
+$ chmod +x pb_selfdestruct4_enc.py
 $ python3 pb_selfdestruct4_enc.py
